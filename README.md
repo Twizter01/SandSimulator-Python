@@ -26,7 +26,7 @@ A pixel art sand simulation game created with Python and Pygame.
 ## How to Run
 
 ```
-python sand_simulator.py
+python main.py
 ```
 
 ## Controls
